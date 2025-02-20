@@ -7,7 +7,7 @@
  for LLM to generate additional tests. Mutation testing is used to further optimize the quality and
  effectiveness of the tests.
  
-![](https://github.com/ExpertiseModel/MuTAP/blob/master/MuTAP_diagram.png)
+![](https://github.com/ZIYUANLI-star/RILT/blob/main/RILT.png)
 
 ## 1. Module Under Test Detector
 The module-under-test detector is responsible for analyzing the structure of source code to extract functions,methods,classes, and other elements, as well as identifying their interdependencies and required packages. 
